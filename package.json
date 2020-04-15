@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "tdd_typescript",
   "version": "1.0.0",
   "description": "",
   "main": "teste.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-commit-msg-linter": "^2.4.2"
+    "@types/node": "^13.11.1",
+    "git-commit-msg-linter": "^2.4.2",
+    "typescript": "^3.8.3"
   }
 }
